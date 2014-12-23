@@ -2,7 +2,7 @@
 <div id="container">
 	<header>
 		<figure id="logo">
-			<img src="img/logo.png" alt="">
+			<img src="img/logo2.png" alt="">
 		</figure>		
 		<nav>
 			<ul>
