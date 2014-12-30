@@ -7,8 +7,8 @@
 		<nav>
 			<ul>
 				<li><a href="index.php">Inicio</a></li>
-				<li><a href="sobreNosotros.php">Sobre Nosotros</a></li>
-				<li><a href="">Nuestro Equipo</a></li>
+				<li><a href="">Sobre Nosotros</a></li>
+				<li><a href="nuestroEquipo.php">Nuestro Equipo</a></li>
 				<li><a href="servicios.php">Servicios</a></a></li>
 				<li><a href="contacto.php">Contacto</a></li>
 				<!-- <li></li>
