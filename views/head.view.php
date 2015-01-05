@@ -6,6 +6,7 @@
 <!-- 	<link rel="stylesheet" href="css/normalize.css">  -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/estilo.css">
 	<script src="js/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>

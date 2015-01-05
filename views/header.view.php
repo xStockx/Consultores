@@ -6,7 +6,7 @@
 		</figure>		
 		<nav>
 			<ul>
-				<li><a href="index.php">Inicio</a></li>
+				<li><a href="index.php"><span class="icon-home"> </span>Inicio</a></li>
 				<li><a href="sobreNosotros.php">Sobre Nosotros</a></li>
 				<li><a href="nuestroEquipo.php">Nuestro Equipo</a></li>
 				<li><a href="servicios.php">Servicios</a></a></li>

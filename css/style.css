@@ -1,0 +1,115 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?-1adc27');
+	src:url('../fonts/icomoon.eot?#iefix-1adc27') format('embedded-opentype'),
+		url('../fonts/icomoon.woff?-1adc27') format('woff'),
+		url('../fonts/icomoon.ttf?-1adc27') format('truetype'),
+		url('../fonts/icomoon.svg?-1adc27#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+	content: "\e600";
+}
+.icon-pencil:before {
+	content: "\e601";
+}
+.icon-headphones:before {
+	content: "\e602";
+}
+.icon-pacman:before {
+	content: "\e603";
+}
+.icon-barcode:before {
+	content: "\e604";
+}
+.icon-cart:before {
+	content: "\e605";
+}
+.icon-coin:before {
+	content: "\e606";
+}
+.icon-mobile:before {
+	content: "\e607";
+}
+.icon-download:before {
+	content: "\e608";
+}
+.icon-upload:before {
+	content: "\e609";
+}
+.icon-bubbles:before {
+	content: "\e60a";
+}
+.icon-zoomin:before {
+	content: "\e60b";
+}
+.icon-lock:before {
+	content: "\e60c";
+}
+.icon-unlocked:before {
+	content: "\e60d";
+}
+.icon-cogs:before {
+	content: "\e60e";
+}
+.icon-mug:before {
+	content: "\e60f";
+}
+.icon-smiley:before {
+	content: "\e610";
+}
+.icon-sad:before {
+	content: "\e611";
+}
+.icon-facebook:before {
+	content: "\e612";
+}
+.icon-facebook2:before {
+	content: "\e613";
+}
+.icon-twitter:before {
+	content: "\e614";
+}
+.icon-vimeo:before {
+	content: "\e615";
+}
+.icon-github:before {
+	content: "\e616";
+}
+.icon-apple:before {
+	content: "\e617";
+}
+.icon-linkedin:before {
+	content: "\e618";
+}
+.icon-chrome:before {
+	content: "\e619";
+}
+.icon-firefox:before {
+	content: "\e61a";
+}
+.icon-IE:before {
+	content: "\e61b";
+}
+.icon-opera:before {
+	content: "\e61c";
+}
+.icon-safari:before {
+	content: "\e61d";
+}
