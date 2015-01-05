@@ -16,11 +16,11 @@
 			</div>
 			<div class="agrupacionIndexServicios" >
 				<div class="itemIndexServicios" onclick="muestraModal('modalAuditorias')">
-					<img src="img/auditoria-interna.png" alt="">
+					<img src="img/auditoria-Interna.png" alt="">
 					<p>Auditoria Interna y COSO-SOX</p>
 				</div>
 				<div class="itemIndexServicios"onclick="muestraModal('modalInventarios')">
-					<img src="img/Inventario.png" alt="">
+					<img src="img/inventario.png" alt="">
 					<p>Inventario, tasaciones y valuaciones</p>
 				</div>
 				<div class="itemIndexServicios" onclick="muestraModal('modalConsultoria')">
