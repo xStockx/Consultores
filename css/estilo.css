@@ -15,7 +15,7 @@ header figure {
   display: inline-block;
 }
 header figure img {
-  width: 270px;
+  width: 240px;
 }
 header nav {
   display: inline-block;
@@ -47,12 +47,16 @@ header a:hover {
   color: #fff;
 }
 footer {
+  padding-top: 30px;
   text-align: center;
   padding-right: 20px;
   font-size: 12px;
 }
 #container {
   width: 100%;
+}
+#derechos {
+  color: #ddd;
 }
 #formularioContacto {
   width: 400px;
@@ -92,7 +96,7 @@ footer {
   margin: 20px;
 }
 #indexServicios .itemIndexServicios {
-  opacity: 0.5;
+  opacity: 0.75;
   border: 1px solid #3a7800;
   border-radius: 0 1em 0 1em;
   margin-left: 20px;
@@ -114,6 +118,14 @@ footer {
   opacity: 1;
   cursor: pointer;
   transition: 0.3s;
+}
+#indexServicios .itemIndexServicios:hover p {
+  background: #3a7800;
+  color: #fff;
+}
+.integrantesEquipo {
+  padding-top: 20px;
+  margin-top: 20px;
 }
 #slider {
   text-align: center;

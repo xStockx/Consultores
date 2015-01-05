@@ -1,33 +1,12 @@
 <section id="sobreNosotros">
 	<p class="modalTitulo">Sobre Nosotros</p>
-	<div>
-		<img src="img/socio1.png" alt="">
-	</div>
-	<div style="width: 500px">
-		<p><span class="modalTitulo">Alexies Leonardo De La Hoz Ortega </span><br>
-		Contador Auditor
-		</p>
-		<p>Amplia experiencia adquirida en empresas auditoras de presencia mundial, tales como: KPMG Peat Marwick y Ernst & Young donde alcanza el cargo de gerente.</p>
-		<p>Conforma el grupo de instructores al interior de la firma y a cursos solicitados por empresas.</p>
-		<p>Se ha desarrollado como socio de ADLH consultores desde el año 2000, asesorando y liderando una serie de proyectos tanto de índole financiera como tributaria.</p>
-		<p>Ha participado en Auditoría de grandes empresas, tales como Codelco Chile, y SQM S.A. (Soquimich), liderando desde Chile la auditoría de todas las filiales, tanto nacionales como extranjeras.</p>
-		<p>Actúa en Due Dilligence solicitadas por socios extranjeros, determinando valores económicos de sociedades, etc.</p>
-	</div>
-	<br>
 
-	<div style="width: 500px; ">
-		<p><span class="modalTitulo" style="text-align: right">Alexies Leonardo De La Hoz Ortega </span><br>
-		Contador Auditor
-		</p>
-		<p>Amplia experiencia adquirida en empresas auditoras de presencia mundial, tales como: KPMG Peat Marwick y Ernst & Young donde alcanza el cargo de gerente.</p>
-		<p>Conforma el grupo de instructores al interior de la firma y a cursos solicitados por empresas.</p>
-		<p>Se ha desarrollado como socio de ADLH consultores desde el año 2000, asesorando y liderando una serie de proyectos tanto de índole financiera como tributaria.</p>
-		<p>Ha participado en Auditoría de grandes empresas, tales como Codelco Chile, y SQM S.A. (Soquimich), liderando desde Chile la auditoría de todas las filiales, tanto nacionales como extranjeras.</p>
-		<p>Actúa en Due Dilligence solicitadas por socios extranjeros, determinando valores económicos de sociedades, etc.</p>
-	</div>
-	<div>
-		<img src="img/socio1.png" alt="">
-	</div>
+	<p>
+		Somos una empresa nacional, constituida en septiembre de 2005, orientada a la prestación de servicios profesionales de auditoría financiera de estados contables, a la administración financiera en general y a la asesoría de la administración de la información, con un alto grado de calidad profesional y solidez técnica. Nos centramos en forjar relaciones de confianza a largo plazo con nuestros clientes.
+	</p>
+	<p>
+		Esta sociedad fue creada inicialmente para el aprovechamiento de incentivos tributarios y de control de algunos de nuestros compromisos, ahora ésta debe potenciarse y a través de ella poder prestar servicios a sociedades inscritas y no inscritas en la Superintendencia de Valores y Seguros, debido a los cambios de las normativas y dejar su socio principal de estar inscrito en el registro de auditores como persona natural, bajo el registro Número 531, cambiando este registro al N° 007 como empresa de auditoría externa en este registro.
+	</p>
 	
 	
 </section>

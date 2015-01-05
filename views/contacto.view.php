@@ -10,7 +10,7 @@
   </div>
   <div class="form-group">
     <label for="nombre">Asunto</label>
-    <input type="email" class="form-control" id="email" placeholder="Servicio de auditoria">
+    <input type="email" class="form-control" id="email" placeholder="Servicio de auditoría">
   </div>
     <div class="form-group">
     <label for="nombre"></label>
